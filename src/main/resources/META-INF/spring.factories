@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  de.moisel.oauth2.oidc.clientrolemapping.MappingServiceAutoconfiguration
